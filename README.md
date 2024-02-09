@@ -1,4 +1,5 @@
 # Getting Access to Webstorm
+<body>
 <div>
   <ol>
     <li>From the Academic Licensing page select <strong>'Apply Now'</strong> under the '**Fro Students and Teachers' tab</li>
@@ -29,6 +30,23 @@
   <ol>
     <li>Select <strong>Git</strong> from the toolbar at the top of the Webstorm application</li>
     <li>The menu will appear, then select 'Clone'</li>
-    <li>You will be presented with the 'Get from Version Control menu, with</li>
+    <li>You will be presented with the <strong>'Get from Version Control</strong> menu, with the <strong>'Repository URL'</strong> already selected</li>
   </ol>
+    <p>From here you can paste the link to your <strong>GitHub repository</strong> and then select <strong>Clone</strong>.</p>
+      <ul>
+        <li>You can paste the link to your <strong>'GitHub'</strong> from the side menu where you will needed to enter your login information</li>
+      </ul>
+</div>
+</body>
+
+<h1>Glossary</h1>
+<div>
+  <p><strong>Branch</strong></p>
+    <ul> 
+      <li>A new version of the main repository</li>
+    </ul>
+  <p><strong>Clone</strong></p>
+    <ul>
+      <li>Full copy of a repository</li>
+    </ul>
 </div>
