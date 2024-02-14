@@ -49,4 +49,46 @@
     <ul>
       <li>Full copy of a repository</li>
     </ul>
+  <p><strong>Fetch</strong></p>
+    <ul>
+      <li>Gathers the change history of a tracked repository</li>
+    </ul>
+  <p><strong>GIT</strong></p>
+    <ul>
+      <li>Used for tracking code changes, who made the changes, and coding collaboration</li>
+    </ul>
+  <p><strong>Github</strong></p>
+    <ul>
+      <li>Makes tools that use Git</li>
+    </ul>
+  <p><strong>Merge</strong></p>
+    <ul>
+      <li>Two branches get combined</li>
+    </ul>
+  <p><strong>Merge Conflict</strong></p>
+    <ul>
+      <li>If the merging of branches end up failing</li>
+    </ul>
+  <p><strong>Push</strong></p>
+    <ul>
+      <li>Connect local changes to remote</li>
+    </ul>
+  <p><strong>Pull</strong></p>
+    <ul>
+      <li>Combines merge and fetch commands</li>
+    </ul>
+  <p><strong>Remote</strong></p>
+    <ul>
+      <li>Refers to internet hosted</li>
+    </ul>
+  <p><strong>Repository</strong></p>
+  <body>
+      <li>Workspace development where GIT is switched, holding folders and files</li>
+  </body>
+</div>
+
+<h1>Resources</h1>
+<div>
+  <a href="https://www.jetbrains.com/help/webstorm/getting-started-with-webstorm.html">JetBrains</a>
+  
 </div>
